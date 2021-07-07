@@ -1,0 +1,27 @@
+# ninja log v5
+5	393	6473147778787932	MouseTest_autogen/timestamp	e7102910588d7883
+396	1509	6473147789831480	CMakeFiles/MouseTest.dir/MouseTest_autogen/mocs_compilation.cpp.obj	e7d77e955b18fedb
+401	1548	6473147790330147	CMakeFiles/MouseTest.dir/main.cpp.obj	128a44248da2e3b7
+1830	2005	6473147794877406	MouseTest.exe	ec2665d934adc6cc
+393	1830	6473147793039930	CMakeFiles/MouseTest.dir/mainwindow.cpp.obj	4ff2775df49805a7
+10	380	6473257780648984	MouseTest_autogen/timestamp	e7102910588d7883
+382	1416	6473257790961553	CMakeFiles/MouseTest.dir/mouseinfo.cpp.obj	9f6086e8613fc825
+381	1453	6473257791375507	CMakeFiles/MouseTest.dir/MouseTest_autogen/mocs_compilation.cpp.obj	e7d77e955b18fedb
+385	1531	6473257792153428	CMakeFiles/MouseTest.dir/main.cpp.obj	128a44248da2e3b7
+384	1658	6473257793385192	CMakeFiles/MouseTest.dir/userinfo.cpp.obj	1fbb1c719dd32554
+387	1911	6473257795858574	CMakeFiles/MouseTest.dir/mainwindow.cpp.obj	4ff2775df49805a7
+1912	2054	6473257797354672	MouseTest.exe	a73a93a08a174822
+8	1406	6473259729920727	CMakeFiles/MouseTest.dir/mainwindow.cpp.obj	4ff2775df49805a7
+1406	1554	6473259731496512	MouseTest.exe	a73a93a08a174822
+5	100	6473259951595702	MouseTest_autogen/timestamp	e7102910588d7883
+101	1056	6473259961153328	CMakeFiles/MouseTest.dir/MouseTest_autogen/mocs_compilation.cpp.obj	e7d77e955b18fedb
+1056	1201	6473259962579515	MouseTest.exe	a73a93a08a174822
+8	1226	6473259988655532	CMakeFiles/MouseTest.dir/userinfo.cpp.obj	1fbb1c719dd32554
+20	1426	6473259990675183	CMakeFiles/MouseTest.dir/mainwindow.cpp.obj	4ff2775df49805a7
+1426	1573	6473259992111351	MouseTest.exe	a73a93a08a174822
+5	97	6473261096283483	MouseTest_autogen/timestamp	e7102910588d7883
+97	1058	6473261105902928	CMakeFiles/MouseTest.dir/MouseTest_autogen/mocs_compilation.cpp.obj	e7d77e955b18fedb
+1058	1200	6473261107299193	MouseTest.exe	a73a93a08a174822
+8	1210	6473261124174185	CMakeFiles/MouseTest.dir/userinfo.cpp.obj	1fbb1c719dd32554
+20	1451	6473261126489677	CMakeFiles/MouseTest.dir/mainwindow.cpp.obj	4ff2775df49805a7
+1452	1594	6473261128020757	MouseTest.exe	a73a93a08a174822
