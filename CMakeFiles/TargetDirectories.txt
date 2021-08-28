@@ -1,5 +1,0 @@
-C:/Users/malyn/Desktop/repos/build-MouseTest-Desktop_Qt_6_1_2_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
-C:/Users/malyn/Desktop/repos/build-MouseTest-Desktop_Qt_6_1_2_MinGW_64_bit-Release/CMakeFiles/MouseTest.dir
-C:/Users/malyn/Desktop/repos/build-MouseTest-Desktop_Qt_6_1_2_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
-C:/Users/malyn/Desktop/repos/build-MouseTest-Desktop_Qt_6_1_2_MinGW_64_bit-Release/CMakeFiles/MouseTest_autogen_timestamp_deps.dir
-C:/Users/malyn/Desktop/repos/build-MouseTest-Desktop_Qt_6_1_2_MinGW_64_bit-Release/CMakeFiles/MouseTest_autogen.dir
