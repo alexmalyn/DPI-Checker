@@ -7,7 +7,7 @@
 *****************************************************************************/
 
 #include <memory>
-#include "../../DPI_Checker_QMAKE/about.h"
+#include "../DPI_Checker/about.h"
 #include <QtCore/qbytearray.h>
 #include <QtCore/qmetatype.h>
 #if !defined(Q_MOC_OUTPUT_REVISION)
